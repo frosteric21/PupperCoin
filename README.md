@@ -8,12 +8,12 @@
 
 ## Adding Tokens to Account on Puppernet
 
-<img width="352" alt="Screen Shot 2021-10-01 at 9 25 00 PM" src="https://user-images.githubusercontent.com/81844266/135703785-5a8cda5a-defb-4a35-8c<img width="347" alt="Screen Shot 2021-10-01 at 9 26 42 PM" src="https://user-images.githubusercontent.com/81844266/135704366-72af83cc-acf3-460d-b54a-b1cd7dfb05be.png">
-0e-af68e8e11b0c.png">
+<img width="352" alt="Screen Shot 2021-10-01 at 9 25 00 PM" src="https://user-images.githubusercontent.com/81844266/135704376-bd3c7d8a-ee34-41dd-a305-2889f4f1992d.png">
+
 
 ## PupperCoin Minted
 
-![Uploading Screen Shot 2021-10-01 at 9.26.42 PM.png…]()
+<img width="347" alt="Screen Shot 2021-10-01 at 9 26 42 PM" src="https://user-images.githubusercontent.com/81844266/135704379-ca7d92ca-d115-404f-829b-0885ae904675.png">
 
 
 ## Deploying Crowdsale
